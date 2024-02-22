@@ -1,0 +1,36 @@
+{
+    "sections": [
+      {
+        "name": "Front Section",
+        "subsections": [
+          {
+            "name": "Left Subsection",
+            "seats_by_rows": {
+              "row1": ["seat1", "seat2", "seat3"],
+              "row2": ["seat4", "seat5", "seat6"]
+            }
+          },
+          {
+            "name": "Right Subsection",
+            "seats_by_rows": {
+              "row1": ["seat7", "seat8", "seat9"],
+              "row2": ["seat10", "seat11", "seat12"]
+            }
+          }
+        ]
+      },
+      {
+        "name": "Back Section",
+        "subsections": [
+          {
+            "name": "Center Subsection",
+            "seats_by_rows": {
+              "row1": ["seat13", "seat14", "seat15"],
+              "row2": ["seat16", "seat17", "seat18"]
+            }
+          }
+        ]
+      }
+    ]
+  }
+  
